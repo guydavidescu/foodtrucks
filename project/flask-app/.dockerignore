@@ -1,0 +1,3 @@
+#to not contain the static files in the flask app 
+static
+templates
